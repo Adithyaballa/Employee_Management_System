@@ -150,7 +150,7 @@ Contributions are welcome!
 
 ## 👨‍💻 Author
 
-**Adhi Aditya**
+**BALLA ADITHYA**
 
 Java Full Stack Developer
 
